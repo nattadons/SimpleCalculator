@@ -1,0 +1,31 @@
+## Ignore Visual Studio build files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Ignore build results
+bin/
+obj/
+
+## Ignore test results
+TestResults/
+
+## Ignore .NET-specific files
+*.log
+*.vs/
+*.vscode/
+*.dbmdl
+*.bak
+
+## Ignore NuGet packages
+*.nupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## Ignore temporary files
+*.tmp
+*.temp
+*.~*
