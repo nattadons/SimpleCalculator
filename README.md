@@ -12,10 +12,7 @@
 - มี Unit Test ตรวจสอบความถูกต้องของการคำนวณ
 
 ## โครงสร้างโปรเจกต์
-SimpleCalculatorSolution/
-├── SimpleCalculator/             # โค้ดโปรเจกต์หลัก (WinForms)
-├── SimpleCalculator.Tests/       # โปรเจกต์ Unit Test (.NET Framework 4.7.2)
-└── SimpleCalculatorSolution.sln  # ไฟล์รวมโปรเจกต์สำหรับเปิดด้วย Visual Studio
+<pre> ## โครงสร้างโปรเจกต์ SimpleCalculatorSolution/ ├── SimpleCalculator/ # โค้ดโปรเจกต์หลัก (WinForms) ├── SimpleCalculator.Tests/ # โปรเจกต์ Unit Test (.NET Framework 4.7.2) └── SimpleCalculatorSolution.sln # ไฟล์รวมโปรเจกต์สำหรับเปิดด้วย Visual Studio </pre>
 
 ## วิธีใช้งาน
 1. เปิด `SimpleCalculatorSolution.sln` ด้วย **Visual Studio**
